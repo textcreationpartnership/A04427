@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here begy[n]neth y[e] new notborune mayd vpo[n] y[e] passio[n] of Cryste</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04427</idno><idno type="EEBO-CITATION">22045368</idno>
+  <idno type="VID">24999</idno>
+  <idno type="EEBO-PROQUEST">2248566107</idno>
+  <idno type="STC">STC 14553.7</idno>
+  <idno type="STC">ESTC S108121</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 24999)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 520:2 or 1728:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here begy[n]neth y[e] new notborune mayd vpo[n] y[e] passio[n] of Cryste</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>By John Skot dwellyuge [sic] in Foster Lane [w?]in Saynt Leonardes parysshe,</publisher>
+                  <pubPlace>Imprynted at London :</pubPlace>
+                  <date>[1535?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of imprint suggested by STC (2nd ed.).</note>
+                  <note>A religious parody of The nutbrown maid--Cf. Hazlitt. Handbook, p. 425.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Poetry.</term>
+               <term type="topical_term">Religious poetry, English --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:24999:1"/>
+            <pb facs="tcp:24999:1"/>
+            <head>¶ Here begȳneth y<seg rend="sup">e</seg> new Notborune mayd vpō y<seg rend="sup">e</seg> passiō of cryste</head>
+            <p>
+               <figure>
+                  <figDesc>depiction of the crucifixion of Christ with Longinus, the Virgin, and St. John</figDesc>
+               </figure>
+            </p>
+            <sp>
+               <l>
+                  <seg rend="decorInit">R</seg>yght and no wrong</l>
+               <l>It is amonge</l>
+               <l>y<seg rend="sup">t</seg> I of man cōplayne</l>
+               <l>Affyrmynge this</l>
+               <l>Howe that it is</l>
+               <l>A laboure spent in vayne</l>
+               <l>To loue hym well</l>
+               <l>For neuer adell</l>
+               <l>He wyll me loue agayne</l>
+               <l>Forthough that I</l>
+               <l>Me sore applye</l>
+               <l>His fauer to attayne</l>
+               <l>Yet yf that shrewe</l>
+               <l>To hym pursue</l>
+               <l>That clepyd is Sathan</l>
+               <l>Hym to conuerte</l>
+               <l>Sone from his herte</l>
+               <l>I am a banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maria the mayde.</speaker>
+               <l>¶ I say not naye</l>
+               <l>Bothe nyght and daye</l>
+               <l>Swete sonne as ye haue sayde</l>
+               <l>Man is vnkynde</l>
+               <l>His faythfull mynde</l>
+               <l>In maner is halfe decayed</l>
+               <l>But neuer the lesse</l>
+               <l>Through cyghtwysenes</l>
+               <l>They rwith be not apayed</l>
+               <l>yet mercy trewe</l>
+               <l>Muste contynewe</l>
+               <l>And not a parte be layed</l>
+               <l>Syth ye for loue</l>
+               <l>Came frome a boue</l>
+               <l>Frome your father in trone.</l>
+               <l>Of louynge mynde</l>
+               <l>To warde mankynde</l>
+               <l>To dye for hym alone.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Iesus.</speaker>
+               <l>¶ Than ye and I</l>
+               <l>Mother marye</l>
+               <l>Let vs despute in fere.</l>
+               <l>Ryght hertely / I you supply</l>
+               <l>your reason lette me here.</l>
+               <l>With man vnkynde</l>
+               <l>Hath neuer mynde</l>
+               <l>Of me that bought hym dere</l>
+               <l>If his folye</l>
+               <l>Shulde haue mercy</l>
+               <l>Ayenste all ryght it were</l>
+               <l>I am by ryght</l>
+               <l>The kynge of lyght</l>
+               <l>For man my blode out ranne</l>
+               <l>Ye knowe a parte</l>
+               <l>Yet from his herte</l>
+               <l>I am a banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maria.</speaker>
+               <l>Here in your wyll</l>
+               <l>For to fulfyll</l>
+               <l>I wyll not sone refuse.</l>
+               <l>To say the truthe</l>
+               <pb facs="tcp:24999:2"/>
+               <l>More is it ruthe</l>
+               <l>I cannot man excuse.</l>
+               <l>To his owne shame</l>
+               <l>He is to blame</l>
+               <l>His lyfe soo to measure.</l>
+               <l>Yet though rygoure</l>
+               <l>Without fauour</l>
+               <l>Woldehym theyrfore accuse.</l>
+               <l>Mercy I pleate</l>
+               <l>That is more greate</l>
+               <l>Than rygoure ten to one.</l>
+               <l>Syth of good mynde</l>
+               <l>To warde mankynde</l>
+               <l>Ye dyed for hym alone.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Iesus.</speaker>
+               <l>¶ The cause stode so</l>
+               <l>Suche dedes were do</l>
+               <l>Wherfore moche harme dyde growe.</l>
+               <l>Tho man and I</l>
+               <l>Came for to dye</l>
+               <l>A shamefull dethe ye knowe.</l>
+               <l>Vpon a tree</l>
+               <l>To make hym free</l>
+               <l>This loue I dyde hym showe</l>
+               <l>Yet to my lawe</l>
+               <l>For loue norawe</l>
+               <l>He wyll not bende nor bowe.</l>
+               <l>Thus my dere mother</l>
+               <l>For man my brother</l>
+               <l>Let me do what I canne.</l>
+               <l>Hym to conuerte</l>
+               <l>Yet from his herte</l>
+               <l>I am a banysshed man</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maria.</speaker>
+               <l>¶ O lorde of blysse</l>
+               <l>Remembre this</l>
+               <l>Howe mannes myrde is lyke y<seg rend="sup">e</seg> mone</l>
+               <l>Is varyable</l>
+               <l>Frayle / and vnstable</l>
+               <l>At morowe / nyght / &amp; noone.</l>
+               <l>Though he vnkynde</l>
+               <l>Haue not in mynde</l>
+               <l>What ye for hym haue doone.</l>
+               <l>Yet haue compassyon</l>
+               <l>Of our saluacyon</l>
+               <l>Forsake not man so soone.</l>
+               <l>A whyle hym spare</l>
+               <l>He shall prepare</l>
+               <l>Hym selfe to you anone.</l>
+               <l>With harte and mynde</l>
+               <l>Louynge and kynde</l>
+               <l>To serue but you alone.</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ I can beleue</l>
+               <l>He shall remeue</l>
+               <l>His synne a daye or twayne.</l>
+               <l>But lytell space</l>
+               <l>That god of grace</l>
+               <l>Wyll in his herte remayne.</l>
+               <l>It shall astake</l>
+               <l>And he wyll take</l>
+               <l>His olde vsage a gayne.</l>
+               <l>So from his thought</l>
+               <l>I that hym bought</l>
+               <l>Shall be expoulsed playne.</l>
+               <l>Thus wyll he do</l>
+               <l>Swete motherloo</l>
+               <l>Holde ye all that ye canne.</l>
+               <l>Vpon his parte</l>
+               <l>yet frome his herte</l>
+               <l>I am a banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>Maria.</speaker>
+               <l>¶ Swete sonne syth ye</l>
+               <l>To make hym fre</l>
+               <pb facs="tcp:24999:2"/>
+               <l>Wold dye of your good mynde.</l>
+               <l>Your herte souerayne</l>
+               <l>Clouen in twayne</l>
+               <l>By Longes the blynde.</l>
+               <l>And all was done</l>
+               <l>That man alone</l>
+               <l>Shulde not be lefte behynde.</l>
+               <l>Your goodnes euer</l>
+               <l>Dothe styllperseuer</l>
+               <l>Though he haue ben vnkynde</l>
+               <l>What is offendyd</l>
+               <l>shall be amended</l>
+               <l>Ye shall persayue anone.</l>
+               <l>He shall be kynde</l>
+               <l>yeldynge his mynde</l>
+               <l>And loue to you alone.</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ Matter in dede</l>
+               <l>My sydes dyde blede</l>
+               <l>For man ryght as ye saye.</l>
+               <l>Yet yonge and olde</l>
+               <l>He neuer wolde</l>
+               <l>Vnto my lawes obaye.</l>
+               <l>But to fulfyll</l>
+               <l>His wanton wyll</l>
+               <l>Wrēchynchynge frō me alway</l>
+               <l>Frome his delyght</l>
+               <l>By day or nyght</l>
+               <l>He wyll make no delay</l>
+               <l>Lo mother he</l>
+               <l>Refuseth me</l>
+               <l>And tourneth hym to Sathan</l>
+               <l>Thus from his thought</l>
+               <l>I that hym bought</l>
+               <l>Am made the banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>Maria.</speaker>
+               <l>¶ Bothe olde and yonge</l>
+               <l>He hathe done wronge</l>
+               <l>I graunt sone to the same</l>
+               <l>Rowynge at large</l>
+               <l>In Sathans barge</l>
+               <l>Empayryng his good name</l>
+               <l>Syth ye hym loue</l>
+               <l>A greate reproue</l>
+               <l>It is to hym &amp; shame</l>
+               <l>I do confesse</l>
+               <l>By ryghtwysenes</l>
+               <l>He is greatly to blame</l>
+               <l>But I commence</l>
+               <l>Afore clemence</l>
+               <l>For man myne accyon</l>
+               <l>Let rygour reste</l>
+               <l>Mercy can beste</l>
+               <l>Determyn this alone.</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ Consydre nowe</l>
+               <l>Swete mother howe</l>
+               <l>Man is a wylde outlawe</l>
+               <l>Renneth a boughte</l>
+               <l>In euery route</l>
+               <l>Workynge ayenst my lawe</l>
+               <l>And yf the deuyll</l>
+               <l>Tempte hym to euyll</l>
+               <l>Theyrto sone wyll he drawe</l>
+               <l>And all myschefe</l>
+               <l>ys to hym lefe</l>
+               <l>Withouten loue orawe</l>
+               <l>To me or you</l>
+               <l>Though for his prowe</l>
+               <l>ye do to all yecan</l>
+               <l>Whan all is sought</l>
+               <l>Quyet frome his thought</l>
+               <l>I am a banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>Maria.</speaker>
+               <pb facs="tcp:24999:3"/>
+               <l>Though as ye say</l>
+               <l>He disobaye</l>
+               <l>Your commaundemet and lore</l>
+               <l>yet yf loue make</l>
+               <l>Hym to forsake</l>
+               <l>His synne / &amp; wepe therfore</l>
+               <l>with full contrycyon</l>
+               <l>For his transgressyon</l>
+               <l>His herte oppressynge sore</l>
+               <l>Contryte and meke</l>
+               <l>As Dauyd speke</l>
+               <l>what aske ye of hym more</l>
+               <l>My sonne / my lorde</l>
+               <l>your prophytes worde</l>
+               <l>I pray you thynke vpon</l>
+               <l>And ye shall fynde</l>
+               <l>Man meke and kynde</l>
+               <l>To serue but you alone.</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ My herte &amp; mawe</l>
+               <l>To rent &amp; drawe</l>
+               <l>And me with othes tobynde</l>
+               <l>Cheseth not he</l>
+               <l>Grace or pytye</l>
+               <l>In hym can I none fynde</l>
+               <l>The crewell Iewes</l>
+               <l>were to me shrewes</l>
+               <l>But he is more vnkynde</l>
+               <l>Syth for his prowe</l>
+               <l>He knoweth well howe</l>
+               <l>I dyde of louynge mynde</l>
+               <l>Of me eche membre</l>
+               <l>He do the remembre</l>
+               <l>with othes all that he can</l>
+               <l>Thus ofte I fynde</l>
+               <l>Me in his mynde</l>
+               <l>But elles a banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maria.</speaker>
+               <l>¶ Full well knowe ye</l>
+               <l>A yenst thyes thre</l>
+               <l>Man feble is to fyght</l>
+               <l>The deuyll / his flesshe / </l>
+               <l>The worlde all fresshe</l>
+               <l>Prouoke hym day and nyght</l>
+               <l>To sue theyr trace</l>
+               <l>Whyche in eche case</l>
+               <l>Is wronge and neuer ryght</l>
+               <l>That thyne stabylyte</l>
+               <l>Of his fragylyte</l>
+               <l>Ayensty them hath no myhgt</l>
+               <l>Though man that frayle is</l>
+               <l>Swere armes / and nales</l>
+               <l>Brane / blode / sydes / passyon</l>
+               <l>Swete sonne regarde</l>
+               <l>Your pāynēs harde</l>
+               <l>ye dyded for hym alone.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Iesus.</speaker>
+               <l>¶ Now for mannes nede</l>
+               <l>Sith I wolde blede</l>
+               <l>And great anguysshe sustayne</l>
+               <l>In stony wayes</l>
+               <l>Both nyghtes and dayes</l>
+               <l>Walkyngein frost / and rayne</l>
+               <l>In clode / and hete</l>
+               <l>In drye / and wete</l>
+               <l>My fete were bare both tway<g ref="char:EOLhyphen"/>ne</l>
+               <l>Though I for loue</l>
+               <l>To mannes behoue</l>
+               <l>Endured all this payne</l>
+               <l>That I therfore</l>
+               <l>Sholde spare the more</l>
+               <l>No reson fynde ye can</l>
+               <l>Rather I sholde</l>
+               <l>More strayte hym holde</l>
+               <pb facs="tcp:24999:3"/>
+               <l>And as a banysshed man</l>
+            </sp>
+            <sp>
+               <speaker>Maria.</speaker>
+               <l>¶ yet my sonne dere</l>
+               <l>I pray you here</l>
+               <l>what tyme poure reason is</l>
+               <l>Mannes soule to cure</l>
+               <l>ye dyde endure</l>
+               <l>Moche payne / I knowe well this</l>
+               <l>To man all vayne</l>
+               <l>Shulde be your payne</l>
+               <l>If he were put to blys</l>
+               <l>For playne remyssyon</l>
+               <l>Is my pet ycyon</l>
+               <l>Where man hathe wrought a<g ref="char:EOLhyphen"/>mys</l>
+               <l>ye be his leche</l>
+               <l>I you beseche</l>
+               <l>To saulue his fores echone</l>
+               <l>That he vnkynde</l>
+               <l>May chaunge his mynde</l>
+               <l>And serue but you alone.</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ Hyther or theder</l>
+               <l>He careth not whyther</l>
+               <l>He go hym to enclyne</l>
+               <l>To wyckydnesse</l>
+               <l>From all goodnesse</l>
+               <l>He dayly do the declyne</l>
+               <l>In cardes and dyce</l>
+               <l>He compteth no vyce</l>
+               <l>Nor syttynge at the wyne</l>
+               <l>To fyght and swere</l>
+               <l>To rent and tere</l>
+               <l>A sondre me and myne</l>
+               <l>Lo thus he dothe</l>
+               <l>To make me wrothe</l>
+               <l>The worst he may or can</l>
+               <l>And I am twynde</l>
+               <l>Out of his mynde</l>
+               <l>Ryght as a banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>Maria.</speaker>
+               <l>¶ My dere sonne dere</l>
+               <l>Syth ye the clere</l>
+               <l>Fountayne of mercy b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Though man be frayle</l>
+               <l>He may not fayle</l>
+               <l>To fynde in you pytye</l>
+               <l>He wyll I truste</l>
+               <l>Frome worldely lust</l>
+               <l>Turne his swete soule to me</l>
+               <l>And in shorte space</l>
+               <l>So stande in grace</l>
+               <l>That I his soule shall se</l>
+               <l>To blysse assende</l>
+               <l>That hathe none ende</l>
+               <l>There to remayne as one</l>
+               <l>That hathe ben kynde</l>
+               <l>And set his mynde</l>
+               <l>Toserue but you alone.</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ Man greueth me sore</l>
+               <l>For lasse nor more</l>
+               <l>Wyll he wons doo for me</l>
+               <l>Ones in a yere</l>
+               <l>A good prayer</l>
+               <l>He sayeth not on his kne</l>
+               <l>The poure may stande</l>
+               <l>With empty hande</l>
+               <l>For almes theyr wyll none be</l>
+               <l>Bothe day and nyght</l>
+               <l>He flyeth the ryght</l>
+               <l>But folye he wyll not fle</l>
+               <l>His proper wyll</l>
+               <l>For to fulfyll</l>
+               <l>He doeth all that he can</l>
+               <pb facs="tcp:24999:4"/>
+               <l>But from his thought</l>
+               <l>I that hym bohght</l>
+               <l>Am euer a banysshed man</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maria.</speaker>
+               <l>¶ If man for you</l>
+               <l>Nor his owne prow</l>
+               <l>Wyll to no grace procede</l>
+               <l>Mercy or grace</l>
+               <l>A fore your face</l>
+               <l>He none deserueth in dede</l>
+               <l>But I your mother</l>
+               <l>For man your brother</l>
+               <l>Make Instaunce in his nede</l>
+               <l>Though he deserue</l>
+               <l>To brynne / and sterue</l>
+               <l>In the Infernall glede</l>
+               <l>Spare hym for me</l>
+               <l>And ye shall se</l>
+               <l>That he shall tourne anone</l>
+               <l>Frome his folye</l>
+               <l>Incessantly</l>
+               <l>To serue but you alone.</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ why shulde I soo</l>
+               <l>Nay let hym go</l>
+               <l>My dere mother mary</l>
+               <l>Syth his delyght</l>
+               <l>Is to be lyght</l>
+               <l>And deale so vnkyndly</l>
+               <l>For you nor me</l>
+               <l>He wyll not flee</l>
+               <l>From vyce / nor hym applye</l>
+               <l>My wordes to here</l>
+               <l>That bought hym dere</l>
+               <l>On crosse anguyously</l>
+               <l>Bothe yonge and olde</l>
+               <l>He hathe ben bolde</l>
+               <l>To greue me that he can</l>
+               <l>But my precept</l>
+               <l>Was euer vnkept</l>
+               <l>And I a banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>Maria.</speaker>
+               <l>¶ For ruthe &amp; drede</l>
+               <l>Myne herte doth blede</l>
+               <l>Man in no wyfe wylbe</l>
+               <l>By reason sayd</l>
+               <l>Nor yet apayed</l>
+               <l>From his offence to flee</l>
+               <l>For though that I</l>
+               <l>For remedye</l>
+               <l>Do all that lyeth in me</l>
+               <l>To haue hym cured</l>
+               <l>yet so endured</l>
+               <l>withsynne &amp; vyce is he</l>
+               <l>That to be shorte</l>
+               <l>what I exhorte</l>
+               <l>Not herde is / yet anone</l>
+               <l>I trust he shall</l>
+               <l>Make well his thrall</l>
+               <l>And serue but you alone.</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ So rude and wylde</l>
+               <l>And so defyled</l>
+               <l>Is he / paste shame &amp; drede</l>
+               <l>That to what lawe</l>
+               <l>He shulde hym drawe</l>
+               <l>He scarsely knoweth in dede</l>
+               <l>yet better were</l>
+               <l>For hym to lere</l>
+               <l>Some vertu / &amp; procede</l>
+               <l>To grace than saye</l>
+               <l>Another daye</l>
+               <l>Alas my wycked dede</l>
+               <l>Hathe me betrayed</l>
+               <pb facs="tcp:24999:4"/>
+               <l>Lo thus good mayde</l>
+               <l>The doughter of saynte Anne.</l>
+               <l>Man hate exylede</l>
+               <l>Frome hym your chylde</l>
+               <l>Ryght as a banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>Maria.</speaker>
+               <l>¶ Whan all to all</l>
+               <l>Shall come / he shall</l>
+               <l>I trust from vyce abrayed</l>
+               <l>And fle theyrfroo</l>
+               <l>whiche hathe hym so</l>
+               <l>Encombered &amp; arayed</l>
+               <l>He shall repell</l>
+               <l>Sathans councell</l>
+               <l>That ofte hathe hym betrayed</l>
+               <l>With full compounctyon</l>
+               <l>To take thy iniunction</l>
+               <l>That shalbe to hym layed</l>
+               <l>Of harde penaunce</l>
+               <l>And hym auaunce</l>
+               <l>To seche remyssyon</l>
+               <l>Full reconsyled</l>
+               <l>To you my chylde</l>
+               <l>Te serue but you alone</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ My cōmaundement</l>
+               <l>Neuer contente</l>
+               <l>His hyghnes for to alowe</l>
+               <l>His Irous brayde</l>
+               <l>Wyll not be layed</l>
+               <l>For me nor yet for you</l>
+               <l>Myne yerte to teare</l>
+               <l>He hathe no feare</l>
+               <l>But dare it well avowe</l>
+               <l>Pryde with hym goeth</l>
+               <l>In herte &amp; cloth</l>
+               <l>How say ye mother nowe</l>
+               <l>Hy thynketh great ease</l>
+               <l>Me to dysplease</l>
+               <l>By all the meanes he can</l>
+               <l>But whan my wyll</l>
+               <l>He shulde fulfyll</l>
+               <l>I am a banysshed man.</l>
+            </sp>
+            <sp>
+               <speaker>Maria.</speaker>
+               <l>Sonne though mannes blode</l>
+               <l>Be wylde and wode</l>
+               <l>Frayle as a fadyng floure</l>
+               <l>Regardynge nought</l>
+               <l>How ye hym bought</l>
+               <l>Out of the fendes powre</l>
+               <l>With hertely mynde</l>
+               <l>Euer enclyned</l>
+               <l>To be a transgressoure</l>
+               <l>Ayenst your lawe</l>
+               <l>And though he drawe</l>
+               <l>Hym selfe to synne eche houre</l>
+               <l>ye may not soo</l>
+               <l>His soule for go</l>
+               <l>Syth ye syttynge in throne</l>
+               <l>Wolde for his loue</l>
+               <l>Come frome aboue</l>
+               <l>To dye for hym alone.</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ Mother your loue</l>
+               <l>I se the proue</l>
+               <l>To man is kynde &amp; true</l>
+               <l>To haue his lyfe</l>
+               <l>Brought out of stryfe</l>
+               <l>Kyndely for hym ye sue</l>
+               <l>And yf he wold</l>
+               <l>His vyces olde</l>
+               <l>Forsake &amp; take vertue</l>
+               <l>I wolde for ruthe</l>
+               <l>Seynge the truthe</l>
+               <pb facs="tcp:24999:5"/>
+               <l>And loue that ye hym shewe</l>
+               <l>Graunt hym remyssyon</l>
+               <l>Vpon condycyon</l>
+               <l>That he forsake Sathan</l>
+               <l>That I may fynde</l>
+               <l>Me in his mynde</l>
+               <l>And as no banysshed man</l>
+            </sp>
+            <sp>
+               <speaker>Maria.</speaker>
+               <l>¶ Sonne your petye</l>
+               <l>And charytye</l>
+               <l>Was well perceyued &amp; sene</l>
+               <l>Whan your pleasure</l>
+               <l>Was to endure</l>
+               <l>To lye my sydes betwene</l>
+               <l>Nyne monethes / and than</l>
+               <l>Be borne as man</l>
+               <l>And to brynge hym from tene</l>
+               <l>In graue be layed</l>
+               <l>And me your mayd</l>
+               <l>To make of heuen Quene</l>
+               <l>And condestende</l>
+               <l>Thus at the ende</l>
+               <l>To graunte man your pardon</l>
+               <l>At my requeste</l>
+               <l>Wherfore shulde reste</l>
+               <l>Greate laude to you alone</l>
+            </sp>
+            <sp>
+               <speaker>Iesus.</speaker>
+               <l>¶ The poore at nede</l>
+               <l>To clothe and fede</l>
+               <l>Parte of his rent &amp; wage</l>
+               <l>He muste bestowe</l>
+               <l>Rememberynge howe</l>
+               <l>All came of one lynage</l>
+               <l>Forsakynge synne</l>
+               <l>He may me wynne</l>
+               <l>And to myne herytage</l>
+               <l>I shall hym take</l>
+               <l>His soule to make</l>
+               <l>My spouse in mariage</l>
+               <l>For to perseuer</l>
+               <l>With me foreuer</l>
+               <l>With ioye she may say than</l>
+               <l>That she hathe wonne</l>
+               <l>A kynges sonne</l>
+               <l>And not a banysshed man.</l>
+               <l>¶ The translator.</l>
+               <l>¶ Regarde and se</l>
+               <l>O man to the</l>
+               <l>God is moche fauorable</l>
+               <l>Eschewe thou than</l>
+               <l>Reprefe no man</l>
+               <l>Beware by dedes dampnable</l>
+               <l>In any wyse</l>
+               <l>Euer despyse</l>
+               <l>Sathan the deceyuable</l>
+               <l>Thy soule beware</l>
+               <l>Out of his snare</l>
+               <l>Neuer be founde vnstable</l>
+               <l>Perseuerauntly</l>
+               <l>Reason applye</l>
+               <l>Iustely let all be done</l>
+               <l>Endlesse solace</l>
+               <l>Shall he purchase</l>
+               <l>That serueth but god alone.</l>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Thus endeth the boke of the newe Notbrowne mayd vpon the passyon of Cryste Impryn<g ref="char:EOLhyphen"/>ted at London by Iohn̄ Skot dwellyuge in Foster lane w<seg rend="sup">t</seg>in saynt Leonardes perysshe.</p>
+            <pb facs="tcp:24999:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
